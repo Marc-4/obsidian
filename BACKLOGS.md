@@ -1,6 +1,11 @@
-
 - [ ] Add data context provider for devices & readings page
-- [ ] Fix websocket data format (everything should be an array)
-- [ ] Organization API (and mock)
-- [ ] Employee API (and mock)
+- [x] Fix websocket data format (everything should be an array)
+- [x] fix microcks organization & employee patch request to use request body dispatcher too
+- [x] Organization API (and mock)
+- [x] Employee API (and mock)
 - [ ] Functioning 8 bit register
+- [x] week 5 narrative
+- [ ] week 6 narrative
+- [ ] week 7 narrative
+- [ ] make 3D case for Project Pinetree device
+- [ ] Capstone paper changes
