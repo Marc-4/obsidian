@@ -4,6 +4,10 @@
 - [x] Organization API (and mock)
 - [x] Employee API (and mock)
 - [ ] Functioning 8 bit register
+	- [ ] check `clk` line to see if giving power only when button is pressed.
+	- [ ]  check if `set` & `clr` are pulled high.
+	- [ ] check why flipflops are outputting high when `clk` is high and `d` is not?
+		- [ ] check if flipflop `d` is high when it shouldnt be.
 - [x] week 5 narrative
 - [ ] week 6 narrative
 - [ ] week 7 narrative
