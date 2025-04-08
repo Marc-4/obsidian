@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "2025-04-08"
             }
+          },
+          {
+            "id": "a23e0161cfe3fce4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,10 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0641e2e8ba921b2",
+  "active": "a23e0161cfe3fce4",
   "lastOpenFiles": [
-    "daily/2025-04-07.md",
     "daily/2025-04-08.md",
+    "daily/2025-04-07.md",
     "daily/2025-03-28.md",
     "daily/2025-03-27.md",
     "daily/2025-03-26.md",
