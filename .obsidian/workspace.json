@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "92065b7c04310bb4",
+        "id": "cfeb8123a443d5ea",
         "type": "tabs",
         "children": [
           {
-            "id": "96e247ede759e88b",
+            "id": "e63d235fba0a6e7a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "file": "daily/2025-04-08.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json"
+              "icon": "lucide-file",
+              "title": "2025-04-08"
             }
           }
         ]
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 684.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,34 +189,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96e247ede759e88b",
+  "active": "c0641e2e8ba921b2",
   "lastOpenFiles": [
-    "Excalidraw/8-Bit Register.md",
+    "daily/2025-04-07.md",
+    "daily/2025-04-08.md",
+    "daily/2025-03-28.md",
+    "daily/2025-03-27.md",
+    "daily/2025-03-26.md",
+    "Excalidraw/ALU.md",
+    "Excalidraw/8 bit adder subtractor.md",
     "BACKLOGS.md",
-    "Excalidraw/Drawing 2025-03-30 21.17.25.excalidraw.md",
     "HACKATHON.md",
-    "2025-03-27.md",
-    "templates/daily.md",
-    "2025-03-26.md",
-    "2025-03-21.md",
-    "Websocket-based Telemetry Websystem.md",
-    "Observer AI.md",
     "Monostable.md",
-    "2025-03-18.md",
-    "2025-03-20.md",
-    "2025-03-19.md",
-    "2025-03-17.md",
+    "PROJECTS.md",
+    "templates/daily.md",
+    "Excalidraw/Drawing 2025-04-06 12.35.20.excalidraw.md",
+    "Excalidraw/??.md",
+    "Excalidraw/8-Bit Register.md",
+    "Excalidraw/8 bit Adder-Subtractor.md",
     "Excalidraw/device readings page.md",
-    "Excalidraw/Drawing 2025-03-24 16.43.20.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-30 21.17.25.excalidraw.md",
+    "Websocket-based Telemetry Websystem.md",
+    "daily/2025-03-03.md",
+    "Welcome.md",
+    "daily",
     "Excalidraw/Monostable 555 Circuit &  8 bit input.md",
-    "2025-03-10.md",
-    "2025-03-11.md",
-    "2025-03-12.md",
-    "2025-03-07.md",
-    "2025-03-03.md",
-    "2025-03-04.md",
-    "2025-03-05.md",
-    "Excalidraw/Drawing 2025-03-20 22.07.27.excalidraw.md",
+    "daily/2025-03-21.md",
+    "daily/2025-03-20.md",
+    "daily/2025-03-19.md",
+    "daily/2025-03-18.md",
     "templates",
     "Pasted Image 20250310215258_678.png",
     "Pasted Image 20250310215053_008.svg",

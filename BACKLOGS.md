@@ -1,15 +1,25 @@
-- [ ] Add data context provider for devices & readings page
+---
+
+---
+---
 - [x] Fix websocket data format (everything should be an array)
 - [x] fix microcks organization & employee patch request to use request body dispatcher too
 - [x] Organization API (and mock)
 - [x] Employee API (and mock)
-- [ ] Functioning 8 bit register
-	- [ ] check `clk` line to see if giving power only when button is pressed.
-	- [ ]  check if `set` & `clr` are pulled high.
-	- [ ] check why flipflops are outputting high when `clk` is high and `d` is not?
-		- [ ] check if flipflop `d` is high when it shouldnt be.
+- [x] Functioning 8 bit register
+	- [x] check `clk` line to see if giving power only when button is pressed.
+	- [x]  check if `set` & `clr` are pulled high.
+	- [x] check why flipflops are outputting high when `clk` is high and `d` is not?
+		- [x] check if flipflop `d` is high when it shouldnt be.
 - [x] week 5 narrative
-- [ ] week 6 narrative
+- [x] week 6 narrative
+- [x] create employee account on registration
+- [x] send email to employee email
 - [ ] week 7 narrative
+- [ ] week 8 narrative
+- [ ] webapp authentication 
 - [ ] make 3D case for Project Pinetree device
 - [ ] Capstone paper changes
+- [ ] test moonwalk-admin account deletion endpoint
+- [ ] implement QR websocket
+- [ ] implement employee profile endpoint
