@@ -15,11 +15,16 @@
 - [x] week 6 narrative
 - [x] create employee account on registration
 - [x] send email to employee email
-- [ ] week 7 narrative
-- [ ] week 8 narrative
-- [ ] webapp authentication 
-- [ ] make 3D case for Project Pinetree device
-- [ ] Capstone paper changes
-- [ ] test moonwalk-admin account deletion endpoint
-- [ ] implement QR websocket
-- [ ] implement employee profile endpoint
+- [x] week 7 narrative
+- [x] test moonwalk-admin account deletion endpoint
+- [x] implement QR websocket
+- [x] implement employee profile endpoint
+- [x] week 8 narrative
+- [x] week 9 narrative
+- [x] make 3D case for Project Pinetree device
+- [x] Capstone paper changes
+- [x] RoadSense OCR
+- [x] RoadSense Web Integration
+- [x] Backend employee/organization endpoint
+- [x] webapp authentication
+- [ 

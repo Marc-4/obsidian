@@ -1,5 +1,7 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "monospaceFontFamily": "Monaspace Argon",
-  "textFontFamily": "Monaspace Neon"
+  "textFontFamily": "Monaspace Neon",
+  "accentColor": "#cc241d",
+  "cssTheme": "Obsidian gruvbox"
 }
