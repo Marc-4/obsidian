@@ -21,7 +21,7 @@
 	- [x] integrate into chart ordering system
 - [x] add support for multiple data sources
 - [x] tallyboard for Total flow rate and overall
-- [ ] tallyboard and histogram for plant efficiency
+- [x] tallyboard and histogram for plant efficiency
 - [ ] revamp edit button
 	- [ ] make edit button display drag handle and pencil icons
 	- [ ] setting icon instead of "edit"

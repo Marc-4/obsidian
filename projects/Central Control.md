@@ -1,0 +1,5 @@
+- [ ] hook up esp32's to sensors around house
+- [ ] create system for ESP's to send data to raspi via wifi
+- [ ] create application backend for uploading and retriving data to/from database
+- [ ] create frontend to retrieve and show data in real-time
+- [ ] setup server and VPN for raspi to communicate from laptop

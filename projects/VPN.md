@@ -1,1 +1,0 @@
-setup private VPN for all home devices
