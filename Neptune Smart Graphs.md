@@ -10,7 +10,6 @@
 	- [x] extract tallyOrder & histogramOrder
 	- [x] make memoized tally and histogram Chart arrays based on the Order in which their ID's occur in tallyOrder and histogramOrder
 	- [x] initialize tallyOrderItems & histogramOrderItems to previous arrays
-	- [ ] (Optional) Remove tallyOrderItems & histogramOrderItems from logic, use base arrays instead
 - [x] fix view edits UI updates only working the first time
 - [x] fix POST state reversion bug
 - [ ] fix flickering state reversion bug
@@ -22,9 +21,12 @@
 - [x] add support for multiple data sources
 - [x] tallyboard for Total flow rate and overall
 - [x] tallyboard and histogram for plant efficiency
-- [ ] revamp edit button
-	- [ ] make edit button display drag handle and pencil icons
-	- [ ] setting icon instead of "edit"
+- [x] change the way data sources get picked for efficiency charts
+- [x] revamp edit button
+	- [x] make edit button display drag handle and pencil icons
+	- [x] setting icon instead of "edit"
+	- [x] add new functionality to new charts
+- [ ] Fix size warping for different-sized draggables
 
 *Medium Priority*
 - [x] scrollable sidemenu

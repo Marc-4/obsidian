@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fc913a0b9f415686",
+        "id": "3f01cf5c8959b9cd",
         "type": "tabs",
         "children": [
           {
-            "id": "0a1d748bd4aefe84",
+            "id": "1d5334cab2aa1f28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neptune Smart Graphs.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Neptune Smart Graphs"
+              "title": "New tab"
             }
           }
         ]
@@ -189,9 +185,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a1d748bd4aefe84",
+  "active": "1d5334cab2aa1f28",
   "lastOpenFiles": [
+    "Neptune Smart Graphs.md",
     "GitHub ReadMe.md",
+    "Excalidraw/Drawing 2025-07-23 10.45.55.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-23 10.44.16.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-23 10.45.55_0.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-15 11.21.19.excalidraw.md",
+    "Excalidraw/??.md",
+    "Untitled.md",
     "outdated/HTTP API for Valve control.md",
     "outdated/BACKLOGS.md",
     "outdated",
@@ -199,11 +202,9 @@
     "projects/Traffic Monitoring AI.md",
     "projects/RoadSense.md",
     "projects/Face Recognition.md",
-    "Neptune Smart Graphs.md",
     "2025-07-15.md",
     "images/Screenshot_20250711_112415.png",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2025-07-15 11.21.19.excalidraw.md",
     "images",
     "notes/Pointers.md",
     "notes/Tensors.md",
@@ -218,10 +219,6 @@
     "HACKATHON.md",
     "daily/2025-05-26.md",
     "daily/2025-04-22.md",
-    "daily/2025-04-21.md",
-    "daily/2025-04-14.md",
-    "daily/2025-04-16.md",
-    "daily/2025-04-10.md",
     "Pasted image 20250420175714.png",
     "daily",
     "templates",
